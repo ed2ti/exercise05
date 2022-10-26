@@ -1,9 +1,9 @@
-# *************************** #
-# College: Trebas Institute 
-# Professor: Iyad Koteich
-# Class: Edward
-# Day: 2022-10-13
-# *************************** #
+//# *************************** #
+//# College: Trebas Institute 
+//# Professor: Ghazal G.Fard
+//# Class: Edward
+//# Day: 2022-06-21
+//# *************************** #
 
 package main
 import (
